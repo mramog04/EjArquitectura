@@ -14,7 +14,7 @@ Cuando la tortuga cambia de zona:
 
 Uso:
     ros2 run turtlesim turtlesim_node      # en una terminal
-    python3 zona_tortuga.py                # en otra terminal
+    python3 zona_color_tortuga.py          # en otra terminal
 """
 import rclpy
 from rclpy.node import Node
